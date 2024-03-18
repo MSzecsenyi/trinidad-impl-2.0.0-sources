@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="trinidad-impl-2.0.0-sources:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/trinidad_impl_2_0_0_sources_jar</output-path>
+    <root id="archive" name="trinidad-impl-2.0.0-sources.jar">
+      <element id="module-output" name="trinidad-impl-2.0.0-sources" />
+    </root>
+  </artifact>
+</component>
